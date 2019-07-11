@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # coding=utf-8
-# author:muhe
-# http://www.cnblogs.com/0xmuhe/
 from pwn import *
 ################# 
 
